@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Webview</string>
+    <string name="et_url">กรุณา ใส่ URL</string>
+    <string name="btn_search">ค้นหา</string>
+</resources>
